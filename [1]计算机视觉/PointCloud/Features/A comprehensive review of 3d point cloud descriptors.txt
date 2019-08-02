@@ -1,0 +1,162 @@
+[1] R. B. Rusu, S. Cousins, 3d is here: Point cloud library (pcl), in: IEEE International Conference on Robotics and Automation, 2011, pp. 1-4.
+
+[2] X. F. Han, J. S. Jin, M. J. Wang, W. Jiang, L. Gao, L. Xiao, A review of algorithms for filtering the 3d point cloud, Signal Processing Image Communication 57 (2017) 103-112.
+
+[3] Y. Guo, F. Sohel, M. Bennamoun, M. Lu, J. Wan, Rotational projection statistics for 3d local surface description and object recognition, International Journal of Computer Vision 105 (1) (2013) 63-86.
+
+[4] I. Hadji, G. N. Desouza, Local-to-global signature descriptor for 3d object recognition, in: Asian Conference on Computer Vision, 2014, pp. 570-584.
+
+[5] A. Aldoma, Z. C. Marton, F. Tombari, W. Wohlkinger, C. Potthast, B. Zeisl, R. B. Rusu, S. Gedikli, M. Vincze, Tutorial: Point cloud library: Three-dimensional object recognition and 6 dof pose estimation, Robotics and Automation Magazine IEEE 19 (3) (2012) 80-91.
+
+[6] L. A. Alexandre, 3d descriptors for object and category recognition: a comparative evaluation, 2012.
+
+[7] T. F. Salti S, Petrelli A, On the affinity between 3d detectors and descriptors, in: 3DIMPVT, 2012, pp. 424-431.
+
+[8] C. M. Mateo, P. Gil, F. Torres, A performance evaluation of surface normalsbased descriptors for recognition of objects using cad-models, in: International Conference on Informatics in Control, Automation and Robotics, 2014, pp. 428 - 435.
+
+[9] Y. Guo, M. Bennamoun, F. Sohel, M. Lu, J. Wan, N. M. Kwok, A comprehensive performance evaluation of 3d local feature descriptors, International Journal of Computer Vision 116 (1) (2016) 66-89.
+
+[10] A. E. Johnson, M. Hebert, Surface matching for object recognition in complex 3-d scenes, Image and Vision Computing 16 (9-10) (1998) 635-651.
+
+[11] A. E. Johnson, M. Hebert, Using spin images for efficient object recognition in cluttered 3d scenes, IEEE Transactions on Pattern Analysis and Machine Intelligence 21 (5) (1999) 433-449. doi:10.1109/34.765655.
+
+[12] B. Matei, Y. Shan, H. S. Sawhney, Y. Tan, R. Kumar, D. Huber, M. Hebert, Rapid object indexing using locality sensitive hashing and joint 3d-signature space estimation, IEEE Transactions on Pattern Analysis and Machine Intelligence 28 (7) (2006) 1111-1126.
+
+[13] Y. Shan, H. S. Sawhney, B. Matei, R. Kumar, Shapeme histogram projection and matching for partial object recognition, IEEE Transactions on Pattern Analysis and Machine Intelligence 28 (4) (2006) 568-577. doi:10.1109/TPAMI.2006.83.
+
+[14] A. Golovinskiy, V. G. Kim, T. Funkhouser, Shape-based recognition of 3d point clouds in urban environments, in: 2009 IEEE 12th International Conference on Computer Vision, 2009, pp. 2154-2161.
+
+[15] A. Frome, D. Huber, R. Kolluri, T. B¨ulow, J. Malik, Recognizing Objects in Range Data Using Regional Point Descriptors, Springer Berlin Heidelberg, Berlin, Heidelberg, 2004, pp. 224-237.
+
+[16] N. Vandapel, D. F. Huber, A. Kapuria, M. Hebert, Natural terrain classification using 3-d ladar data, in: Robotics and Automation, 2004. Proceedings. ICRA ’04. 2004 IEEE International Conference on, Vol. 5, 2004, pp. 5117-5122. doi: 10.1109/ROBOT.2004.1302529.
+
+[17] A. Anand, H. S. Koppula, T. Joachims, A. Saxena, Contextually guided semantic labeling and search for three-dimensional point clouds, International Journal of Robotics Research 32 (1) (2013) 19-34.
+
+[18] O. Kahler, I. Reid, Efficient 3d scene labeling using fields of trees, in: IEEE International Conference on Computer Vision, 2013, pp. 3064-3071.
+
+[19] A. Zelener, P. Mordohai, I. Stamos, Classification of vehicle parts in unstructured 3d point clouds, in: International Conference on 3d Vision, 2015, pp. 147-154.
+
+[20] D. Anguelov, B. Taskarf, V. Chatalbashev, D. Koller, D. Gupta, G. Heitz, A. Ng, Discriminative learning of markov random fields for segmentation of 3d scan data, in: 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR’05), Vol. 2, 2005, pp. 169-176 vol. 2. doi:10.1109/CVPR. 2005.133.
+
+[21] R. Triebel, K. Kersting, W. Burgard, Robust 3d scan point classification using associative markov networks, in: Proceedings 2006 IEEE International Conference on Robotics and Automation, 2006. ICRA 2006., 2006, pp. 2603-2608. doi: 10.1109/ROBOT.2006.1642094.
+
+[22] J. Behley, V. Steinhage, A. B. Cremers, Performance of histogram descriptors for the classification of 3d laser range data in urban environments, in: 2012 IEEE International Conference on Robotics and Automation, 2012, pp. 4391-4398. doi:10.1109/ICRA.2012.6225003.
+
+[23] X. Ge, Non-rigid registration of 3d point clouds under isometric deformation, Isprs Journal of Photogrammetry and Remote Sensing 121 (2016) 192-202.
+
+[24] A. Flint, A. Dick, A. V. D. Hengel, Thrift: Local 3d structure recognition, in: Digital Image Computing Techniques and Applications, Biennial Conference of the Australian Pattern Recognition Society on, 2007, pp. 182-188.
+
+[25] R. B. Rusu, Z. C. Marton, N. Blodow, M. Beetz, I. A. Systems, T. U. Mnchen, Persistent point feature histograms for 3d point clouds, in: In Proceedings of the 10th International Conference on Intelligent Autonomous Systems (IAS-10, 2008.
+
+[26] R. B. Rusu, N. Blodow, Z. C. Marton, M. Beetz, Aligning point cloud views using persistent feature histograms, in: Ieee/rsj International Conference on Intelligent Robots and Systems, 2008, pp. 3384-3391.
+
+[27] R. B. Rusu, N. Blodow, M. Beetz, Fast point feature histograms (fpfh) for 3d registration, in: IEEE International Conference on Robotics and Automation, 2009, pp. 1848-1853.
+
+[28] R. B. Rusu, A. Holzbach, M. Beetz, G. Bradski, Detecting and segmenting objects for mobile manipulation, in: IEEE International Conference on Computer Vision Workshops, 2009, pp. 47-54.
+
+[29] J. Huang, S. You, Detecting objects in scene point cloud: A combinational approach, in: 2013 International Conference on 3D Vision - 3DV 2013, 2013, pp. 175-182. doi:10.1109/3DV.2013.31.
+
+[30] Z. C. Marton, D. Pangercic, N. Blodow, J. Kleinehellefort, M. Beetz, General 3d modelling of novel objects from a single view, in: Ieee/rsj International Conference on Intelligent Robots and Systems, 2010, pp. 3700-3705.
+
+[31] B. S. Radu, B. Rusu, K. Konolige, W. Burgard, Narf: 3d range image features for object recognition.
+
+[32] F. Tombari, S. Salti, L. D. Stefano, Unique signatures of histograms for local surface description, in: European Conference on Computer Vision Conference on Computer Vision, 2010, pp. 356-369.
+
+[33] F. Tombari, S. Salti, L. D. Stefano, 	 263 (4) (2011) 809-812.
+
+[34] R. Beserra Gomes, B. Marques, Ferreira Da Silva, L. K. D. M. Rocha, R. V. Aroca, Gon, L. M. G. Alves, Efficient 3d object recognition using foveated point clouds, Computers and Graphics 37 (5) (2013) 496-508.
+
+[35] F. Tombari, S. Salti, L. D. Stefano, Unique shape context for 3d data description, in: Proceedings of the ACM workshop on 3D object retrieval, 2010, pp. 57-62.
+
+[36] F. Tombari, S. Salti, L. D. Stefano, Unique signatures of histograms for local surface description., Lecture Notes in Computer Science 6313 (2010) 356-369.
+
+[37] L. Bo, X. Ren, D. Fox, Depth kernel descriptors for object recognition 32 (14) (2011) 821-826.
+
+[38] D. Fehr, A. Cherian, R. Sivalingam, S. Nickolay, Compact covariance descriptors in 3d point clouds for object recognition, in: IEEE International Conference on Robotics and Automation, 2012, pp. 1793-1798.
+
+[39] D. Fehr, W. J. Beksi, D. Zermas, N. Papanikolopoulos, Rgb-d object classification using covariance descriptors, in: IEEE International Conference on Robotics and Automation, 2014, pp. 5467-5472.
+
+[40] W. J. Beksi, N. Papanikolopoulos, Object classification using dictionary learning and rgb-d covariance descriptors, in: 2015 IEEE International Conference on Robotics and Automation (ICRA), 2015, pp. 1880-1885. doi:10.1109/ICRA. 2015.7139443.
+
+[41] T. Fiolka, J. Stuckler, D. A. Klein, D. Schulz, S. Behnke, Distinctive 3d surface entropy features for place recognition, in: European Conference on Mobile Robots, 2014, pp. 204-209.
+
+[42] T. Fiolka, J. Stckler, D. A. Klein, D. Schulz, S. Behnke, Sure: Surface entropy for distinctive 3d features, in: International Conference on Spatial Cognition, 2012, pp. 74-93.
+
+[43] J. Huang, S. You, Point cloud matching based on 3d self-similarity, in: 2012 IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops, 2012, pp. 41-48. doi:10.1109/CVPRW.2012.6238913.
+
+[44] P. Cirujeda, X. Mateo, Y. Dicente, X. Binefa, Mcov: A covariance descriptor for fusion of texture and shape features in 3d point clouds, in: International Conference on 3d Vision, 2014, pp. 551-558.
+
+[45] H. Rahmani, A. Mahmood, Q. H. Du, A. Mian, Hopc: Histogram of oriented principal components of 3d pointclouds for action recognition, in: European Conference on Computer Vision, 2014, pp. 742-757.
+
+[46] G. Zhao, J. Yuan, K. Dang, Height gradient histogram (high) for 3d scene labeling, in: International Conference on 3d Vision, 2014, pp. 569-576.
+
+[47] T. B. Jrgensen, A. G. Buch, D. Kraft, Geometric edge description and classification in point cloud data with application to 3d object recognition.
+
+[48] S. M. Prakhya, B. Liu, W. Lin, B-shot: A binary feature descriptor for fast and efficient keypoint matching on 3d point clouds, in: Ieee/rsj International Conference on Intelligent Robots and Systems, 2015, pp. 1929-1934.
+
+[49] X. Li, K. Wu, Y. Liu, R. Ranasinghe, G. Dissanayake, R. Xiong, Risas: A novel rotation, illumination, scale invariant appearance and shape feature.
+
+[50] K. B. Logoglu, S. Kalkan, A. Temizel, Cospair: Colored histograms of spatial concentric surflet-pairs for 3d object recognition, Robotics and Autonomous Systems 75 (part B) (2016) 558-570.
+
+[51] E. Wahl, U. Hillenbrand, G. Hirzinger, Surflet-pair-relation histograms: A statistical 3d-shape representation for rapid classification, in: International Conference on 3-D Digital Imaging and Modeling, 2003. 3dim 2003. Proceedings, 2003, pp. 474-481.
+
+[52] K. Tang, P. Song, X. Chen, Signature of geometric centroids for 3d local shape description and partial shape matching, in: Asian Conference on Computer Vision, 2016, pp. 311-326.
+
+[53] J. Yang, Z. Cao, Q. Zhang, A fast and robust local descriptor for 3d point cloud registration, Information Sciences s 346347 (2016) 163-179.
+
+[54] S. M. Prakhya, J. Lin, V. Chandrasekhar, W. Lin, B. Liu, 3dhopd: A fast lowdimensional 3-d descriptor, IEEE Robotics and Automation Letters 2 (3) (2017) 1472-1479.
+
+[55] B. Drost, M. Ulrich, N. Navab, S. Ilic, Model globally, match locally: Efficient and robust 3d object recognition, in: Computer Vision and Pattern Recognition, 2010, pp. 998-1005.
+
+[56] Z. C. Marton, D. Pangercic, N. Blodow, M. Beetz, Combined 2d3d categorization and classification for multimodal perception systems, International Journal of Robotics Research 30 (11) (2011) 1378-1402.
+
+[57] M. Muja, R. B. Rusu, G. Bradski, D. G. Lowe, Rein - a fast, robust, scalable recognition infrastructure (2011) 2939-2946.
+
+[58] R. B. Rusu, G. Bradski, R. Thibaux, J. Hsu, Fast 3d recognition and pose using the viewpoint feature histogram, in: Ieee/rsj International Conference on Intelligent Robots and Systems, 2014, pp. 2155-2162.
+
+[59] H. Ali, F. Shafait, E. Giannakidou, A. Vakali, N. Figueroa, T. Varvadoukas, N. Mavridis, Contextual object category recognition for rgb-d scene labeling, Robotics and Autonomous Systems 62 (2) (2014) 241-256.
+
+[60] K. C. Chan, C. K. Koh, C. S. G. Lee, A 3-d-point-cloud system for human-pose estimation, IEEE Transactions on Systems Man and Cybernetics Systems 44 (11) (2014) 1486-1497.
+
+[61] A. Aldoma, M. Vincze, N. Blodow, D. Gossow, S. Gedikli, R. B. Rusu, G. Bradski, Cad-model recognition and 6dof pose estimation using 3d cues, in: IEEE International Conference on Computer Vision Workshops, 2012, pp. 585-592.
+
+[62] A. Aldoma, F. Tombari, R. B. Rusu, M. Vincze, Our-cvfh oriented, unique and repeatable clustered viewpoint feature histogram for object recognition and 6dof pose estimation, in: Joint Dagm, 2012, pp. 113-122.
+
+[63] M. Madry, C. H. Ek, R. Detry, K. Hang, Improving generalization for 3d object categorization with global structure histograms, in: Ieee/rsj International Conference on Intelligent Robots and Systems, 2012, pp. 1379-1386.
+
+[64] W. Wohlkinger, M. Vincze, Shape distributions on voxel surfaces for 3d object classification from depth images, in: IEEE International Conference on Signal and Image Processing Applications, 2012, pp. 115-120.
+
+[65] W. Wohlkinger, M. Vincze, Ensemble of shape functions for 3d object classification, in: IEEE International Conference on Robotics and Biomimetics, 2012, pp. 2987-2992.
+
+[66] C. Y. Ip, D. Lapadat, L. Sieger, W. C. Regli, Using shape distributions to compare solid models, in: ACM Symposium on Solid Modeling and Applications, 2002, pp. 273-280.
+
+[67] T. Chen, B. Dai, D. Liu, J. Song, Performance of global descriptors for velodynebased urban object recognition, IEEE, 2014.
+
+[68] J. Cheng, Z. Xiang, T. Cao, J. Liu, Robust vehicle detection using 3d lidar under complex urban environment, in: IEEE International Conference on Robotics and Automation, 2014, pp. 691-696.
+
+[69] S. H. Kasaei, A. M. Tom, L. S. Lopes, M. Oliveira, Good: A global orthographic object descriptor for 3d object recognition and manipulation , Pattern Recognition Letters 83 (2016) 312-320.
+
+[70] J. P. S. d. M. Lima, V. Teichrieb, An efficient global point cloud descriptor for object recognition and pose estimation, in: 2016 29th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2016, pp. 56-63. doi:10.1109/ SIBGRAPI.2016.017.
+
+[71] B. Lin, F. Wang, F. Zhao, Y. Sun, Scale invariant point feature (sipf) for 3d point clouds and 3d multi-scale object detection, Neural Computing and Applicationsdoi:10.1007/s00521-017-2964-1.
+
+[72] I. V. Alexander Patterson, P. Mordohai, K. Daniilidis, Object Detection from Large-Scale 3D Datasets Using Bottom-Up and Top-Down Descriptors, Springer Berlin Heidelberg, 2008.
+
+[73] M. Himmelsbach, T. Luettel, H. J. Wuensche, Real-time object classification in 3d point clouds using point feature histograms, in: Ieee/rsj International Conference on Intelligent Robots and Systems, 2009, pp. 994-1000.
+
+[74] J. F. Lalonde, N. Vandapel, D. F. Huber, M. Hebert, Natural terrain classification using threedimensional ladar data for ground robot mobility, Journal of Field Robotics 23 (10) (2006) 839861.
+
+[75] M. Lehtomki, A. Jaakkola, J. Hyypp, J. Lampinen, H. Kaartinen, A. Kukko, E. Puttonen, H. Hyypp, Object classification and recognition from mobile laser scanning point clouds in a road environment, IEEE Transactions on Geoscience and Remote Sensing 54 (2) (2016) 1226-1239.
+
+[76] Z. Wang, L. Zhang, T. Fang, P. T. Mathiopoulos, X. Tong, H. Qu, Z. Xiao, F. Li, D. Chen, A multiscale and hierarchical feature extraction method for terrestrial laser scanning point cloud classification, IEEE Transactions on Geoscience and Remote Sensing 53 (5) (2015) 2409-2425.
+
+[77] K. Alhamzi, M. Elmogy, S. Barakat, 3d object recognition based on local and global features using point cloud library 7 (2015) 43-54.
+
+[78] Y. Zhong, Intrinsic shape signatures: A shape descriptor for 3d object recognition, in: IEEE International Conference on Computer Vision Workshops, 2010, pp.689-696.
+
+[79] H. Hwang, S. Hyung, S. Yoon, K. Roh, Robust descriptors for 3d point clouds using geometric and photometric local feature, in: Ieee/rsj International Conference on Intelligent Robots and Systems, 2012, pp. 4027-4033.
+
+[80] K. Lai, L. Bo, X. Ren, D. Fox, A large-scale hierarchical multi-view rgb-d object dataset, in: IEEE International Conference on Robotics and Automation, 2011, pp. 1817-1824.
+
+[81] A. G. Buch, H. G. Petersen, N. Krger, Local shape feature fusion for improved matching, pose estimation and 3d object recognition, Springerplus 5 (1) (2016) 1-33.
+

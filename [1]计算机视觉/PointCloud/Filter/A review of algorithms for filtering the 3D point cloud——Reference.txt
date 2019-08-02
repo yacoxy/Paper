@@ -1,0 +1,169 @@
+[1] Rusu RB, Cousins S., 3d is here: Point cloud library (pcl), In: IEEE International Conference on Robotics and Automation, 2011, pp. 1–4
+
+[2] Aldoma A, Marton ZC, Tombari F, Wohlkinger W, Potthast C, Zeisl B,et al., Tutorial: Point cloud library: Three-dimensional object recognition and 6 dof pose estimation,IEEE Robotics Automation Magazine, 19 (3) 2012 80–91
+
+[3] Saval-Calvo M, Orts-Escolano S, Azorin-Lopez J, Garcia-Rodriguez J, FusterGuillo A, Morell-Gimenez V, et al., A Comparative Study of Downsampling Techniques for Non-rigid Point Set Registration Using Color, in: ’Bioinspired Computation in Artificial Systems’(Springer,2015), pp. 281–290
+
+[4] Rangel JC, Morell V, Cazorla M, Orts-Escolano S, Garc´ıa-Rodr´ıguez J., Object recognition in noisy rgb-d data, In: ’Bioinspired Computation in Artificial Systems’(Springer,2015), pp. 261–270
+
+[5] Park J, Kim H, Tai YW, Brown MS, Kweon I., High quality depth map up-sampling for 3d-tof cameras, International Conference on Computer Vision,Barcelona, Nov., 2011, pp. 1623–1630.
+
+[6] Rosli NAIM, Ramli A., Mapping bootstrap error for bilateral smoothing on point set, AIP Conference Proceedings, Penang, Malaysia, 2014, pp. 149–54.
+
+[7] Pfister H, Gross M., Point-based computer graphics, IEEE Computer Graphics and Applications, 24(4) 2004 22–23
+
+[8] Kobbelt L, Botsch M., A survey of point-based techniques in computer graphics,Computers & Graphics, 28(6) 2004 801–814
+
+[9] Holz D, Behnke S., Fast range image segmentation and smoothing using approximate surface reconstruction and region growing, International Conference on Intelligent Autonomous Systems, 2012, pp. 61–73
+
+[10] Han J, Shao L, Xu D, Shotton J., Enhanced computer vision with microsoft kinect sensor: A review, IEEE Transactions on Cybernetics, 43(5) 2013 1318–1334
+
+[11] Xu W, Lee IS, Lee SK, Lu B, Lee EJ., Multiview-based hand posture recognition method based on point cloud, Ksii Transactions on Internet & Information Systems, 9(7) 2015 2585–2598
+
+[12] Huhle B, Schairer T, Jenke P, Strasser W., Robust non-local denoising of colored depth data, IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops, Anchorge, AK, June, 2008, pp. 1–7
+
+[13] Landa J, Proch´azka D,Sˇ´tastn´y J., Point cloud processing for smart systems, Ac-ta Universitatis Agriculturae et Silviculturae Mendelianae Brunensis, 61(7) 2013 2415–2421
+
+[14] Xie H, McDonnell KT, Qin H., Surface reconstruction of noisy and defective data sets, Visualization, IEEE, Austin, TX, USA, Oct.,2004, pp. 259–266
+
+[15] Narv´aez EAL, Narv´aez NEL., Point cloud denoising using robust principal component analysis, Proceedings of the First International Conference on Computer Graphics Theory and Applications, Set´ubal, Portugal, February, 2006, pp. 51–58
+
+[16] Zaman F, Wong YP, Ng BY., Density-based denoising of point cloud, arXiv preprint arXiv:160205312, 2016
+
+[17] Schall O, Belyaev A, Seidel HP., Adaptive feature-preserving non-local denoising of static and time-varying range data, Computer-Aided Design, 40(6) 2008 701–707
+
+[18] Schall O, Belyaev A, Seidel HP., Robust filtering of noisy scattered point data,Proceedings Eurographics/IEEE VGTC Symposium Point-Based Graphics, Stony Brook, NY, USA, June, 2005, pp. 71–144
+
+[19] Alexa M, Behr J, Cohen-Or D, Fleishman S, Levin D, Silva CT., Point set surfaces, Proceedings of the Conference on Visualization, San Diego, CA, USA, Oct., 2001, pp. 21–28
+
+[20] Jenke P, M. W, Bokeloh M, Schilling A, Straßer W., Bayesian point cloud reconstruction, Computer Graphics Forum, 25(3) 2006 379–388
+
+[21] Kalogerakis E, Nowrouzezahrai D, Simari P, Singh K., Extracting lines of curvature from noisy point clouds, Computer-Aided Design, 41(4) 2009 282–292
+
+[22] Avron H, Sharf A, Greif C, Cohen-Or D., L1-sparse reconstruction of sharp point set surfaces, Acm Transactions on Graphics, 29(5) 2010 1–12
+
+[23] Sun Y, Schaefer S, Wang W., Denoising point sets via L0 minimization, Computer Aided Geometric Design, 35 2015 2–15
+
+[24] Orts-Escolano S, Morell V, Garcia-Rodriguez J, Cazorla M., Point cloud data filtering and downsampling using growing neural gas, The 2013 International Joint Conference on Neural Networks (IJCNN), Dallas, TX, Aug. 2013, pp. 1–8
+
+[25] Orts-Escolano S, Garcia-Rodriguez J, Morell V, Cazorla M, Perez JAS,Garcia A., 3d surface reconstruction of noisy point clouds using growing neural gas: 3d object/scene reconstruction, Neural Processing Letters, 43(2) 2015 1C23
+
+[26] Saval-Calvo M, Orts-Escolano S, Azorin-Lopez J, Garcia-Rodriguez J,FusterGuillo A, Morell-Gimenez V, et al., Non-rigid point set registration using color and data downsampling, International Joint Conference on Neural Networks (IJCNN), Killarney, July, 2015, pp. 1–8
+
+[27] Fritzke B., A growing neural gas network learns topologies, Advances in Neural Information Processing Systems, 7 1995 625–632
+
+[28] Garcia-Rodriguez J, Cazorla M, Orts-Escolano S, Morell V., Improving 3d keypoint detection from noisy data using growing neural gas, International Conference on Artificial Neural Networks: Advences in Computational Intelligence, 2013, pp. 480C487
+
+[29] Rangel JC, Morell V, Cazorla M, Orts-Escolano S, Garc´ıa-Rodr´ıguez J., Object recognition in noisy rgb-d data using gng, Pattern Analysis and Applications, 2016, pp. 1–16
+
+[30] Tomasi C, Manduchi R., Bilateral filtering for gray and color images, International Conference on Computer Vision, Bombay, Jan., 1998, pp. 839–846
+
+[31] Paris S., A gentle introduction to bilateral filtering and its applications, ACM SIGGRAPH, San Diego, Californila, 2007, pp. 853–879
+
+[32] Fleishman S, Drori I, Cohen-Or D., Bilateral mesh denoising, Acm Transactions on Graphics, 22(3) 2003 950C953
+
+[33] Jones TR, Durand F, Desbrun M., Non-iterative, feature-preserving mesh smoothing, ACM Transactions on Graphics (TOG), 22(3) 2003 943C949
+
+[34] Lee KW, Wang WP., Feature-preserving mesh denoising via bilateral normal filtering, International Conference on Computer Aided Design and Computer Graphics, Hong Kong, China, Dec., 2005, pp. 275C280
+
+[35] Miropolsky A, Fischer A., Reconstruction with 3d geometric bilateral filter, Proceedings of the Ninth ACM Symposium on Solid Modeling and Applications,2004, pp. 225C229
+
+[36] Ma S, Zhou C, Zhang L, Hong W., Depth image denoising and key points extraction for manipulation plane detection, Intelligent Control and Automation, Shenyang, June, 2014, pp. 3315C3320
+
+[37] Hernandez M, Choi J, Medioni G., Near laser-scan quality 3-d face reconstruction from a low-quality depth stream, Image & Vision Computing, 36 2015 61–69
+
+[38] Shi BQ, Liang J, Liu Q, Shi BQ, Liang J, Liu Q., Adaptive simplification of point cloud using -means clustering, Computer–Aided Design, 43(8) 2011 910–922
+
+[39] Xu W, Lee IS, Lee SK, Lu B, Lee EJ., Multiview-based hand posture recognition method based on point cloud, Ksii Transactions on Internet & Information Systems, 9(7) 2015 2585–2598
+
+[40] Jones TR, Durand F, Zwicker M., Normal improvement for point rendering, IEEE Computer Graphics & Applications, 24(4) 2004 53–56
+
+[41] Wand M, Berner A, Bokeloh M, Jenke P, Fleck A, Hoffmann M, et al., Processing and interactive editing of huge point clouds from 3d scanners, Computers & Graphics, 32(2) 2008 204–220
+
+[42] Moorfield B, Haeusler R, Klette R., Bilateral filtering of 3d point clouds for refined 3d roadside reconstructions, In: ’Computer Analysis of Images and Patterns’,2015, pp. 394–402
+
+[43] Nasab SE, Ghaleh SF, Ramezanpour S, Kasaei S., Permutohedral lattice in 3d point cloud processing, In: ’International Symposium on Telecommunications’, 2014, pp. 289–294
+
+[44] Hu G, Peng Q, Forrest AR., Mean shift denoising of point-sampled surfaces, The Visual Computer, 22(3) 2006 147–57
+
+[45] Buades A, Coll B, Morel JM., A non-local algorithm for image denoising, IEEE Computer Society Conference on Computer Vision & Pattern Recognition, San Diego, CA, USA, June, 2005, pp. 60–65
+
+[46] Wang J, Xu K, Liu L, Cao J, Liu S, Yu Z, et al., Consolidation of low-quality point clouds from outdoor scenes, Computer Graphics Forum, 32(5) 2013 207–216
+
+[47] Brown B. Statistical uses of the spatial median., Journal of the Royal Statistical Society Series B (Methodological), 45(1) 1983 25–30
+
+[48] Small CG., A survey of multidimensional medians, International Statistical Review/Revue Internationale de Statistique, 58(3) 1990, 263–277
+
+[49] Huang H, Li D, Zhang H, Ascher U, Cohen-Or D., Consolidation of unorganized point clouds for surface reconstruction, Acm Transactions on Graphics, 28(5) 2009 89–97
+
+[50] Huang H, Wu S, Cohen-Or D, Gong M, Zhang H, Li G, et al., L1-medial skeleton of point cloud, Acm Transactions on Graphics, 32(4) 2013 96
+
+[51] Lipman Y, Cohen-Or D, Levin D, Tal-Ezer H., Parameterization-free projection for geometry reconstruction, Acm Transactions on Graphics, 26(3) 2007 221C225
+
+[52] Tagliasacchi A, Zhang H, Cohen-Or D., Curve skeleton extraction from incomplete point cloud, Acm Transactions on Graphics, 28(3) 2009 341–352
+
+[53] Ye M, Wang X, Yang R, Ren L, Pollefeys M., Accurate 3d pose estimation from a single depth image, International Conference on Computer Vision, Barcelona, Nov., 2011, pp. 731–738
+
+[54] Liao B, Xiao C, Jin L, Fu H., Efficient feature-preserving local projection operator for geometry reconstruction,. Computer-Aided Design, 45(5) 2013 861C874.
+
+[55] Huang H, Wu S, Gong M, Cohen-Or D, Ascher U, Zhang H., Edge-aware point set resampling, Acm Transactions on Graphics, 32(1) 2013 60–61
+
+[56] Preiner R, Mattausch O, Arikan M, Pajarola R, Wimmer M., Continuous projection for fast l1 reconstruction, Acm Transactions on Graphics, 33(4) 2014 70–79
+
+[57] LevinD., Theapproximationpowerofmovingleast-squares, Mathematics of Computation, 67(224) 2000 1517–1531
+
+[58] Levin D., Mesh-Independent Surface Interpolation, In: ’Geometric Modeling for Scientific Visualization’(Springer Berlin Heidelberg, 2004), pp. 37–49
+
+[59] Dey T, Goswami S, Sun J., Smoothing noisy point clouds with delaunay preprocessing and mls, The Ohio State University Technical Report No OSU-CISRC-3/04-TR17, 2004
+
+[60] Alexa M, Behr J, Cohen-Or D, Fleishman S, Levin D, Silva CT., Computing and rendering point set surfaces, IEEE Transactions on Visualization & Computer Graphics, 9(1) 2003 3–15
+
+[61] Pauly M, Gross M, Kobbelt LP., Efficient simplification of point-sampled surfaces, Proceedings of the conference on Visualization. Boston, MA, USA, Oct., 2002, pp. 163–170
+
+[62] Alexa M, Adamson A., On normals and projection operators for surfaces defined by point sets, Proceedings of the First Eurographics conference on Point-Based Graphics, Aire-la-Ville, Switzerland, 2004, pp. 149–155
+
+[63] Amenta N, Kil YJ., Defining point-set surfaces, ACM Transactions on Graphics (TOG), 23(3) 2004 264–270
+
+[64] Mederos B, Velho L, De Figueiredo LH., Robust smoothing of noisy point clouds, Proc Siam Conference on Geometric Design & Computing, 2003, pp. 405–416
+
+[65] Fleishman S, Cohen-Or D, Silva CT., Robust moving least-squares fitting with sharp features, Acm Transactions on Graphics, 24(3) 2005 544–552
+
+[66] Adamson A, Alexa M., Point-sampled cell complexes, Acm Transactions on Graphics, 25(3) 2006 671–680
+
+[67] Guennebaud G, Gross M., Algebraic point set surfaces, Acm Transactions on Graphics, 26(3) 2007 23
+
+[68] Fua P., Reconstructing Surfaces from Unstructured 3D Points, Proc Image Understanding Workshop, 1996 615–625
+
+[69] Wang J, Yu Z, Zhu W, Cao J., Feature-preserving surface reconstruction from unoriented noisy point data, Computer Graphics Forum, 32(1) 2013 164–176
+
+[70] Taubin G., A signal processing approach to fair surface design, Proceedings of the 22nd annual conference on Computer graphics and interactive techniques, New York, USA, 1995, pp. 351–358
+
+[71] Linsen L.: ’Point cloud representation’, 2001
+
+[72] Pauly M, Kobbelt L, Gross MH, Gross MH, Gross MH., Multiresolution modeling of point-sampled geometry, 2002
+
+[73] Pauly M, Gross M., Spectral processing of point-sampled geometry, Proceedings of the 28th annual conference on Computer graphics and interactive techniques, New York, USA, 2001, pp. 379–386
+
+[74] Rosman G, Dubrovina A, Kimmel R., Patch-collaborative spectral point cloud denoising, Computer Graphics Forum, 32(8) 2013 1–12
+
+[75] Clarenz U, Rumpf M, Telea A., Fairing of point based surfaces, Proceedings of Computer Graphics International, Crete, June, 2004, pp. 600–603
+
+[76] Taubin , Gabriel ., Estimating the tensor of curvature of a surface from a polyhedral approximation, International Conference on Computer Vision, Washington, DC, USA, 1995, pp. 902–907
+
+[77] Lange C, Polthier K., Anisotropic smoothing of point sets, Computer Aided Geometric Design, 22(7) 2005 680–692
+
+[78] Xiao C, Miao Y, Liu S, Peng Q., A dynamic balanced flow for filtering pointsampled geometry, The Visual Computer, 22(3) 2006 210–219
+
+[79] Lozes F,Elmoataz A, L´ezoray O., Partialdifference operatorson weighted graphs for image processing on surfaces and point clouds, IEEE Transactions on Image Processing, 23(9) 2014 3896–3909
+
+[80] Ta VT, Elmoataz A, L´ezoray O., Nonlocal pdes-based morphology on weighted graphs for image and data processing, IEEE transactions on Image Processing, 20(6) 2011 1504–1516
+
+[81] Chakik AE, Desquesnes X, Elmoataz A., Fast 3d surface reconstruction from point clouds using graph-based fronts propagation, ACCV, Berlin, Heidelberg, 2012, pp. 309–320
+
+[82] Liu S, Chan KC, Wang CC., Iterative consolidation of unorganized point clouds, IEEE Computer Graphics & Applications, 32(3) 2012 70–83
+
+[83] Szeliski R., Surface modeling with oriented particle systems, Acm Siggraph Computer Graphics, 26(2) 1998 185–194.
+
+[84] Digne J., Similarity based filtering of point clouds, IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Providence, RI, 2012, pp. 73–79
+
+
